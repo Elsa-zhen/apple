@@ -241,7 +241,10 @@ footer{
 }
 .bottom-list-ul-li{
 	color:#999;
-	font-weight:600;
+	font-weight:bolder;
+}
+.bottom-list-ul-li-1{
+	margin-top:20px;
 }
 /*大屏列表结束*/
 /*小屏列表开始*/
